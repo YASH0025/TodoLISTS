@@ -1,0 +1,23 @@
+/* Custom styles for TaskList component
+
+.task-list {
+    margin: 20px;
+  }
+  
+  /* Custom styles for Task component */
+  .custom-task {
+    background-color: #F0F0F0;
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .custom-button {
+    margin-left: 10px;
+  }
+  
+  
+   */
